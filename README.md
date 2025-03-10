@@ -5,7 +5,7 @@ FOR DEVELOPERS
 💡 Build and Deploy ML Models Without Hassle
 You're a developer—your time is valuable. You don’t want to spend hours fine-tuning machine learning models when all you need is a working solution. OneLinerML lets you train, evaluate, and deploy ML models with just one line of code.
 
-⚡ Why Developers Love EasyML
+⚡ Why Developers Love OneLinerML
 
 ✅ Minimal Code, Maximum Impact – No complex pipelines. Just pass your dataset, and OneLinerML does the rest.
 
