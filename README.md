@@ -27,7 +27,7 @@ No debugging nightmares. No messy dependencies. Just results
 🔥 Ready to level up your AI projects? Install OneLinerML now:
 pip install OneLinerML
 
-# For Data Scientits
+# For Data Scientists
 
 🚀 Focus on Insights, Not Implementation
 
