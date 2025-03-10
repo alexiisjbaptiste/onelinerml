@@ -27,3 +27,26 @@ No debugging nightmares. No messy dependencies. Just results
 🔥 Ready to level up your AI projects? Install OneLinerML now:
 pip install OneLinerML
 
+# FOR DATA SCIENTISTS
+
+🚀 Focus on Insights, Not Implementation
+
+You love data science, but you don’t want to waste time on repetitive ML tasks. EasyML automates data preprocessing, feature engineering, and model training—so you can focus on delivering insights.
+
+⚡ What Makes EasyML a Game-Changer?
+
+✅ AutoML Without Complexity – Automatically preprocesses your data, selects features, and optimizes your model.
+
+✅ Interpretability & Explainability – Get model performance metrics out of the box.
+
+✅ Supports Your Favorite ML Tools – Works with Random Forest, XGBoost, Logistic Regression, and more.
+
+✅ Fast Iteration & Prototyping – Test multiple models in seconds, not hours.
+
+📊 Train, Compare, and Deploy Models Effortlessly
+
+🚀 Speed up your workflow and deliver AI solutions faster.
+
+🔥 Start using EasyML today:
+pip install OneLinerML
+
